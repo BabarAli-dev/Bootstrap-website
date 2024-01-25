@@ -1,0 +1,24 @@
+#card-1{
+    text-align: center;
+    margin-top: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+/* Add this CSS for horizontal layout and margin */
+.card-container {
+    display: flex;
+    margin-left: -40px; /* Adjust the margin as needed */
+}
+
+.card {
+    margin-left: 40px; /* Adjust the margin as needed */
+    width: 18rem;
+}
+#card-2{
+    margin-left:55px;
+}
+
+#nav-1{
+    background-color: rgb(215, 219, 224);
+    padding: 30px;
+}
